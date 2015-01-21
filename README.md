@@ -1,6 +1,6 @@
 Procedural Materials and Methods: (See note above)
 
-***All scripts and code can be found at https://github.umn.edu/klang/RNASeq***
+
 
 GALAXY: FASTQ GROOMER and FASTQC
 1.	MSI usually directly loads these into Galaxy so no manual upload is needed.  These should be in fastq format.
